@@ -1,0 +1,19 @@
+{
+  "name": "local-storage",
+  "version": "1.0.0",
+  "description": "broswer localStorage support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samhou1988/local-storage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samhou1988/local-storage/issues"
+  },
+  "homepage": "https://github.com/samhou1988/local-storage#readme"
+}
